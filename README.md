@@ -1,0 +1,2 @@
+# SQuirrL
+PHP SQL class
